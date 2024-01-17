@@ -6,7 +6,7 @@ package dataarray;
 
 /**
  *
- * @author arman
+ * @author annu
  */
 public class student {
     private int std;
