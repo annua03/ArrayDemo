@@ -5,8 +5,7 @@
 package dataarray;
 
 /**
- *adding forth commit
- * 
+ *
  * @author arman
  */
 public class student {
