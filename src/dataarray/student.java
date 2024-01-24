@@ -5,7 +5,7 @@
 package dataarray;
 
 /**edited text from origin/remote
- *
+ *editing to check the fetch and merge
  * @author arman
  */
 public class student {
