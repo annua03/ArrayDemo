@@ -11,7 +11,17 @@ package dataarray;
 public class student {
     private int std;
     private String sname;
+    private String address;
 
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    
     public student(int std, String sname) {
         this.std = std;
         this.sname = sname;
